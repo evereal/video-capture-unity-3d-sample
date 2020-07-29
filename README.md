@@ -1,4 +1,4 @@
-# video-capture-unity-3d-sample
+# Video Capture Unity 3D Sample
 Video Capture Sample for 3D Unity Game
 
 * Unity Version: 2019.4.0f1
